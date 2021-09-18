@@ -19,7 +19,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &2149291310830086932
 Transform:
@@ -28,8 +28,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7799991638353347777}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -12.84, y: 5.635, z: 8.212}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -18.253, y: -2.21437, z: 3.46669}
   m_LocalScale: {x: 0.48322314, y: 0.686106, z: 0.7515333}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3395,19 +3395,11 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 6335
+  m_VersionIndex: 6341
   m_IsSelectable: 1
-  m_SelectedFaces: 06000000
-  m_SelectedEdges:
-  - a: 24
-    b: 25
-  - a: 26
-    b: 24
-  - a: 25
-    b: 27
-  - a: 27
-    b: 26
-  m_SelectedVertices: 18000000190000001a0000001b000000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!114 &6870118195202749255
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -15,7 +15,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &7170313170512977107
 Transform:
@@ -25,7 +25,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4843143845416600835}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.52300006, y: 0.5070001, z: -0.9}
+  m_LocalPosition: {x: 0.52300006, y: 0.359, z: -1.099}
   m_LocalScale: {x: 0.37948623, y: 0.28007513, z: 0.7107919}
   m_Children: []
   m_Father: {fileID: 9197133126248549399}
@@ -44,7 +44,7 @@ Light:
   m_Shape: 0
   m_Color: {r: 0.41960788, g: 0.8196079, b: 0.86666673, a: 1}
   m_Intensity: 4
-  m_Range: 3
+  m_Range: 2.46
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
@@ -82,7 +82,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -111,7 +111,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &9197133126248549399
 Transform:
@@ -120,8 +120,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9197133126248549388}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 29.505, y: -1.41927, z: -10.297}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -39.186028, y: -2.08927, z: 13.275691}
   m_LocalScale: {x: 2.635142, y: 3.5704708, z: 1.4068816}
   m_Children:
   - {fileID: 7170313170512977107}
@@ -460,7 +460,7 @@ MonoBehaviour:
   m_PreserveMeshAssetOnDestroy: 0
   assetGuid: 
   m_Mesh: {fileID: 0}
-  m_VersionIndex: 485
+  m_VersionIndex: 572
   m_IsSelectable: 1
   m_SelectedFaces: 
   m_SelectedEdges: []
