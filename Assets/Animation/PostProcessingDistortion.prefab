@@ -11,8 +11,7 @@ GameObject:
   - component: {fileID: 1066929341555093583}
   - component: {fileID: 1066929341555093582}
   - component: {fileID: 1066929341555093585}
-  - component: {fileID: 1066929341555093580}
-  m_Layer: 0
+  m_Layer: 13
   m_Name: PostProcessingDistortion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63,22 +62,3 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 12.454994, y: 4.126953, z: 5.7009373}
   m_Center: {x: -0.78341675, y: 0.17758751, z: 0.14444447}
---- !u!95 &1066929341555093580
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1066929341555093584}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1b1d904438b9e2e47bc1a17d92e03bb6, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
