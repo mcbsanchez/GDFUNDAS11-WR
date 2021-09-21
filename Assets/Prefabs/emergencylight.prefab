@@ -10526,13 +10526,13 @@ Light:
     serializedVersion: 2
     m_Bits: 16439
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 15.137142, y: 19.415958}
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.4208e-41, y: 5.55e-43, z: 0, w: 1.2279606e-16}
+  m_BoundingSphereOverride: {x: 6.39e-43, y: -2.6701563e+28, z: 6.38e-43, w: 4.0513547e-11}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0

@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/alt_space_final.unity
+    guid: 3a785ee769003994bb9f6dd8c84ae80a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fbc46b7aa4b91b7428b6df9bbeaed075, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9e35c62d0d6f2ca47bd260686e5ec20f, type: 2}
